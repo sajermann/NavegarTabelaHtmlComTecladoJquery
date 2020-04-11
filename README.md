@@ -7,7 +7,7 @@ Funciona com tabelas prontas já criadas quando o DOM estiver montado e funciona
 
 ### Importante
 
-Alguns atributos são necessários existir para que todo ocorra conforme desejar, esses atributos são:
+Alguns atributos são necessários existir para que todo ocorra conforme desejado, esses atributos são:
 
 * tabindex
 * locked
